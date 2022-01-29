@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @LaThanhTrong
+- 👋 Hi, I’m @La Thanh Trọng
 - 👀 I’m interested in Software Development both Web application and Android application.
 - 🌱 I’m currently learning how to build a responsive website.
 - 💞️ I’m looking to collaborate on ...
